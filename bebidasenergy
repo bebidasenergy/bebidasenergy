@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Derivado de "Desafío: un viaje de ensueño"</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+        
+        <p>I would see scenes like...</p>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/fields-of-grain.png" alt="paisaje del desierto con cielo azulado "width="91">
+        <p>And animals like...</p>
+        <img src="https://www.kasandbox.org/programming-images/animals/horse.png" alt="caballo tradional de color cafe oscuro del campo "width="91">
+        <p>And eat food like...</p>
+        <img src="https://www.kasandbox.org/programming-images/food/berries.png" alt="frutos del bosque como lo son la mora fresas y frambuesas "width="91">
+    </body>
+</html>
